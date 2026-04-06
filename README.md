@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>WAF Engineer · Cloud Security Specialist (in progress) · Cybersecurity Student</b><br>
-  📍 Panama → 🇦🇷 Buenos Aires (2028)
+  📍 Panama → 🇦🇷 Buenos Aires (2028-2029)
 </p>
 
 ---
