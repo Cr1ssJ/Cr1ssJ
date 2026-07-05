@@ -34,11 +34,9 @@ I'm currently focused on growing into **Cloud Security**, building toward roles 
 
 | Certification | Status |
 |---|---|
-| Imperva Cloud Security Certification | 🔄 In Progress |
+| Imperva Cloud Web Application Firewall (CWAF) Core Engineer Certification | ✅ Completed |
 | CompTIA Security+ | 🔄 In Progress |
-| Certified in Cybersecurity – ISC2 (CC) | 🔄 In Progress |
 | AWS Security Specialty | 📅 Planned |
-| CCSP – ISC2 | 📅 Planned |
 
 ---
 
